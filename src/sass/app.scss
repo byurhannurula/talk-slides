@@ -1,0 +1,14 @@
+@charset 'UTF-8';
+
+// Import Font family
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700';
+
+// Base styles
+@import 'base/reset';
+@import 'base/variables';
+
+// Base Slide styles
+@import 'slides/base-slides';
+
+// Custom Slide styles
+@import 'slides/custom-slides';
